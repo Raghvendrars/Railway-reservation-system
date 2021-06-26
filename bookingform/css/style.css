@@ -1,0 +1,177 @@
+.upper-cont{
+  width: 100%;
+  min-height: 100px;   
+  background-color: #f2f2f2;
+  padding: 20px;
+
+}
+
+.main-cont{
+  width: 100%;
+  min-height: 600px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.main-cont .mainfor{
+  padding-top: 60px;
+  min-height: 270px;
+  margin-top: 28px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+
+/*Traveller Details css*/
+
+input[type="text"] {
+  color: black;
+  width: 15%;
+  padding: 04px 20px;
+  margin: 8px 1px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-bottom: 2px solid black;
+  border-radius: 4px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  /*border-bottom: 2px solid black;*/
+
+
+}
+
+.main-cont .mainfor #tnameid{
+  width: 20%;
+}
+ .main-cont .mainfor #travel #nameid{
+  margin-left: 10%;
+ width: 20%;
+}
+
+
+ .main-cont .mainfor #travel  #ageid
+ {
+  width: 12%;
+ }
+ .main-cont .mainfor #travel #adharid
+ {
+  width: 20%;
+  margin-bottom: 3%;
+ }
+
+
+
+ .main-cont .mainfor #td #tdata{
+  position: relative;
+  border: none;
+  border-bottom: 0px solid red;
+  /*margin-left: 30px;*/
+
+ }
+
+/*Button Css*/
+ .main-cont .mainfor #btnid {
+  margin-left: 42%;
+  margin-right: auto;
+  margin-top: 02%;
+  padding-bottom: 30px;
+
+ }
+
+  .main-cont .mainfor #btnid #btn1{
+  
+  color:white;
+  /*border:none;*/
+  border: #17202A;
+  background-color: #17202A;
+  position:relative;
+  height:45px;
+  font-size:1.5em;
+  width: 100px;
+  cursor:pointer;
+  transition:800ms ease all;
+  outline:none;
+  border-radius: 10px;
+ }
+
+
+.main-cont .mainfor #btnid #btn1:hover{
+  /*background:#fff;*/
+  border: none;
+  color:white;
+  background:green;
+  
+}
+
+
+.main-cont .mainfor #travel{
+  margin-top: 2%;
+border: 1px solid black;
+width: 98%;
+margin-left: 12px;
+ 
+}
+
+.main-cont .mainfor #travel:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input[type="number"],#sel{
+  color: black;
+  width: 12%;
+  padding: 04px 20px;
+  margin: 8px 1px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+   border-bottom: 2px solid black;
+
+}
+#form{
+  margin-left: 100px;
+  margin-top: 02%;
+}
+
+ .main-cont .mainfor h3{
+  font-weight: bold;
+  color: blue;
+  margin-top: 01%;
+  margin-bottom: 1%;
+}
+
+
+
+ #country-select,#state-select,#city-select{
+  color: black;
+  width: 18%;
+  margin-left: 50px;
+  padding: 04px 20px;
+  margin: 8px 1px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+   border-bottom: 2px solid black;
+}
+input[type="submit"], input[type="reset"]{
+  
+}
+
+#lables{
+  color: red;
+  padding: 8px;
+  font-family: Arial;
+  font-size: 18px;
+}
+
+
+
+/*For new traveller div*/
+

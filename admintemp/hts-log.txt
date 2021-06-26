@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Jan 2019 12:31:57 at http://demo.admireadmin.com/admire_html/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.admireadmin.com/admire_html/ -O1 "C:\Users\Raghvendra\Desktop\new\website" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/blue_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/green_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/purple_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/orange_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/red_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/mint_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/brown_black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/black_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/blue_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/green_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/purple_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/orange_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/red_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/mint_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/brown_skin.css (from demo.admireadmin.com/admire_html/)
+12:42:40	Warning: 	File not parsed, looks like binary: demo.admireadmin.com/admire_html/fonts/fontawesome-webfont.woff2?v=4.7.0
+12:43:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/cropped.jpg (from demo.admireadmin.com/admire_html/cropper.html)
+12:43:39	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/holder.js/230x170 (from demo.admireadmin.com/admire_html/add_user.html)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/fancybox/css/fancybox_buttons.png (from demo.admireadmin.com/admire_html/vendors/fancybox/css/jquery.fancybox-buttons.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/js/index.js (from demo.admireadmin.com/admire_html/forgot_password2.html)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/themify/fonts/themify.eot (from demo.admireadmin.com/admire_html/vendors/themify/css/themify-icons.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/themify/fonts/themify.eot? (from demo.admireadmin.com/admire_html/vendors/themify/css/themify-icons.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/themify/fonts/themify.svg (from demo.admireadmin.com/admire_html/vendors/themify/css/themify-icons.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/fileinput/img/loading-sm.gif (from demo.admireadmin.com/admire_html/vendors/fileinput/css/fileinput.min.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/loading.gif (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:16	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/error.png (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/play-pause.png (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/error.svg (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/play-pause.svg (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/video-play.png (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/img/video-play.svg (from demo.admireadmin.com/admire_html/vendors/blueimp-gallery-with-desc/css/blueimp-gallery.min.css)
+12:44:17	Error: 	"Not Found" (404) at link demo.admireadmin.com/admire_html/img/loading1.gif (from demo.admireadmin.com/admire_html/css/pages/portlet.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 36 seconds : 656 links scanned, 624 files written (26763963 bytes overall) [14918461 bytes received at 19733 bytes/sec], 14586267 bytes transferred using HTTP compression in 397 files, ratio 17%
+(31 errors, 1 warnings, 0 messages)
